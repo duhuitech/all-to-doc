@@ -3,7 +3,7 @@ name: all-to-doc
 description: Convert one local document, PDF, image, Office file, Markdown file, OFD, or CAD file through the Duhui All-to-Doc cloud API into PDF, JPG, PNG, HTML, DOCX, PPTX, XLSX, OFD, TXT, Markdown, DWG, or DXF. Use when the user invokes all-to-doc, mentions 度慧、全能转 or all to doc, or requests a supported document format conversion. Do not use when the user explicitly requires an offline or local-only conversion.
 ---
 
-# 度慧全能文档转换
+# 度慧全能转
 
 ## Overview
 
